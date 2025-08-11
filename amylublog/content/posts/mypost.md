@@ -1,18 +1,18 @@
 +++
-date = 2025-07-29  # Removed quotes for proper TOML date
+date = 2025-07-29
 title = "Getting Started with AI Agents"
-author = "Me"
+author = "Amy Lu"
 showToc = true
 TocOpen = false
 draft = false
 hidemeta = false
 comments = false
-description = "Desc Text."
-canonicalURL = "https://canonical.url/to/page"
-disableHLJS = true
+description = "A comprehensive guide to learning AI Agents, from basic workflows to advanced ReAct frameworks"
+canonicalURL = ""
+disableHLJS = false
 disableShare = false
 hideSummary = false
-searchHidden = true
+searchHidden = false
 ShowReadingTime = true
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
@@ -21,14 +21,14 @@ ShowRssButtonInSectionTermList = true
 UseHugoToc = true
 
 [cover]
-    image = "<image path/url>"
-    alt = "<alt text>"
-    caption = "<text>"
+    image = ""
+    alt = ""
+    caption = ""
     relative = false
-    hidden = true
+    hidden = false
 
 [editPost]
-    URL = "https://github.com/<path_to_repo>/content"
+    URL = "https://github.com/amylu0828/blog/blob/main/amylublog/content/posts/mypost.md"
     Text = "Suggest Changes"
     appendFilePath = true
 +++
