@@ -9,6 +9,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
+mainsections: ["posts"]
 
 minify:
   disableXML: true
@@ -25,6 +26,11 @@ languages:
       category: categories
       tag: tags
       series: series
+    menu:
+      main:
+        - name: Posts
+          url: posts
+          weight: 1
 
 outputs:
   home:
@@ -44,6 +50,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
   ShowToc: true
 
   homeInfoParams:
