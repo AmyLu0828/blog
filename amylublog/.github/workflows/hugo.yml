@@ -42,7 +42,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.deploy-to-pages.outputs.base_url }}/"
+            --baseURL "https://amylu0828.github.io/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
