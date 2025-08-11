@@ -1,4 +1,0 @@
-baseURL = 'https://amy_lu.github.io/'
-languageCode = 'en-us'
-title = 'My First Blog'
-theme = 'hugo-PaperMod'
