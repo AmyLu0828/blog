@@ -43,7 +43,7 @@ params:
   description: "Amy's Personal Blog"
   author: Amy
   
-  defaultTheme: auto
+  defaultTheme: dark
   ShowShareButtons: true
   ShowReadingTime: true
   displayFullLangName: true

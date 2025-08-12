@@ -1,0 +1,56 @@
+/* Custom image sizing utilities */
+
+/* Small images */
+.img-small {
+    width: 300px;
+    height: auto;
+    max-width: 100%;
+}
+
+/* Medium images */
+.img-medium {
+    width: 500px;
+    height: auto;
+    max-width: 100%;
+}
+
+/* Large images */
+.img-large {
+    width: 800px;
+    height: auto;
+    max-width: 100%;
+}
+
+/* Extra large images */
+.img-xl {
+    width: 1000px;
+    height: auto;
+    max-width: 100%;
+}
+
+/* Responsive images that scale with content */
+.img-responsive {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+/* Center images */
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Image with border */
+.img-bordered {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Image with shadow */
+.img-shadow {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
